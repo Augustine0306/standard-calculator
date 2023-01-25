@@ -24,6 +24,7 @@ Validate the layout in various browsers.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 calc.html
 
 <!DOCTYPE html>
@@ -77,7 +78,7 @@ calc.html
             </table>
         </div>
     </div>
-
+    
 </body>
 <script src="/static/JS/index.js"></script>
 
@@ -111,7 +112,6 @@ for (item of buttons) {
 
     })
 }
-
 style.css
 
 .container{
@@ -153,7 +153,7 @@ h1{
     font-size: 28px;
     font-family: 'Courier New', Courier, monospace;
 }
-
+```
 ## OUTPUT:
 ![calc q](https://user-images.githubusercontent.com/119404460/214484355-7c343927-7f7e-4e0e-8599-60a34f76923d.png)
 ![calc  a](https://user-images.githubusercontent.com/119404460/214484454-0d0cf5d9-3c3e-41d9-8c50-818705eeab87.png)
